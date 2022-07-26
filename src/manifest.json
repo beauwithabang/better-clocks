@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "New textures that make the useless clock an actual clock.",
+        "name": "BetterClocks",
+        "uuid": "8afe7b38-bd91-44c6-a652-3ca29fa799cf",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 18, 0]
+    },
+    "modules": [
+        {
+            "description": "BetterClocks Resource Pack",
+            "type": "resources",
+            "uuid": "c9c620a6-8571-4b42-8d2d-cfe6ab9d44e5",
+            "version": [1, 0, 0]
+        }
+    ]
+}
