@@ -19,8 +19,8 @@ I took the useless clock item in Minecraft Bedrock and made it tell unambiguous 
 ![Held in right hand](https://raw.githubusercontent.com/beauwithabang/better-clocks/main/screenshots/held-in-left-hand.png)
 ![In hot bar](https://raw.githubusercontent.com/beauwithabang/better-clocks/main/screenshots/in-hot-bar.png)
 ![Mounted on wall indoors](https://raw.githubusercontent.com/beauwithabang/better-clocks/main/screenshots/mounted-on-wall-indoors.png)
-![Mounted on wall outdoors in the shade](https://via.placeholder.com/468x300?text=mounted-on-wall-outdoors-in-shade.png)
-![Mounted on wall outdoors in sunlight](https://via.placeholder.com/468x300?text=mounted-on-wall-outdoors-in-sulight.png)
+![Mounted on wall outdoors in the shade](https://raw.githubusercontent.com/beauwithabang/better-clocks/main/screenshots/mounted-on-wall-outdoors-in-shade.png)
+![Mounted on wall outdoors in sunlight](https://raw.githubusercontent.com/beauwithabang/better-clocks/main/screenshots/mounted-on-wall-outdoors-in-sulight.png)
 
 
 ## Installation
